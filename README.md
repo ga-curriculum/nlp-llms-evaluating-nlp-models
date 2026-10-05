@@ -21,8 +21,8 @@ An introduction to common benchmarks, metrics, and other key factors for selecti
 
 | Topic |  About |
 | ------ | ------ |
-| [Full Lesson Deck](./01-slides) | NLP Model Evaluation |
-| [ROUGE-BLEU](./02-ROUGE-BLEU) | Introduction to Hugging Face Evaluate and Rouge/SacreBLEU metrics |
+| [Full Lesson Deck](https://github.com/ga-curriculum/nlp-llms-evaluating-nlp-models/blob/main/01-slides/NLP-LLMs%204%20Evaluating%20NLP%20Models.pdf){:target="_blank"} | NLP Model Evaluation |
+| [ROUGE-BLEU](https://github.com/ga-curriculum/nlp-llms-evaluating-nlp-models/tree/main/02-rouge-bleu){:target="_blank"} | Introduction to Hugging Face Evaluate and Rouge/SacreBLEU metrics |
 
 
 ### Prerequisites:
